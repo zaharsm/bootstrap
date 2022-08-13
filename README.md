@@ -24,4 +24,4 @@
  
 <hr> 
 
-<img src="images/First-Project.png" > 
+<img src="images/tindog.png" > 
