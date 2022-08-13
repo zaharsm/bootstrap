@@ -10,11 +10,13 @@
 
 2) Welcome  
 
-3) My Skills   
+3) features  
 
-4) Get in Touch   
+4) Testimonials   
 
-5) Social Sites  
+5) Pricing 
+
+6) Social Sites
 
 
 <h3>Tech Stack </h3>: 
